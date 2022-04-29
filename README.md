@@ -1,4 +1,8 @@
-# Red-Planet-Laundry-Management-System-1.0-is-vulnerable-to-SQL
+# Red-Planet-Laundry-Management-System-1.0-is-vulnerable-to-SQL       
+
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-28452
+https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-28452
+https://laundry.redplanetcomputers.com/
 
 1-Description:
 
